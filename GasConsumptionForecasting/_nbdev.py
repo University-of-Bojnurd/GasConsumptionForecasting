@@ -6,7 +6,7 @@ index = {}
 
 modules = []
 
-doc_url = "https://University-of-Bojnurd.github.io/GasConsumptionForecasting/"
+doc_url = "https://University-of-Bojnurd.github.io/GasConsumptionForecasting/docs"
 
 git_url = "https://github.com/University-of-Bojnurd/GasConsumptionForecasting/tree/master/"
 
